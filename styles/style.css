@@ -1,0 +1,53 @@
+.emptyclass{
+
+}
+
+#mainHeader {
+    background-color: gray;
+    padding: 40px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.boldest-font {
+    font-weight: 900;
+}
+
+
+.YT-video-size {
+    width: 420px;
+    height: 315px;
+}
+
+.centerSBS {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.fs-xxl{
+    font-size: xx-large;
+}
+
+div.stick {
+    position: sticky;
+    top: 1;
+}
+
+.fixed {
+    position: fixed;
+}
